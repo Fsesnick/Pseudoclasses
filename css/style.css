@@ -6,3 +6,10 @@
   background: #384047;
   color:white;
 }
+
+/* box shadow deslocamentos de 0* desfoque 6px*/
+#col-c:target{
+  background:#eff1f2;
+  color: initial;
+  box-shadow: 0 0 6px rgba(0,0,0,.2);
+}
